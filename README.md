@@ -2,7 +2,6 @@
 ![ShoyebWritesCode github-trophies](https://stats.dooboo.io/api/github-trophies?login=ShoyebWritesCode)
 ## Wakatime Stats
 
-![Wakatime Stats](https://wakatime.com/share/@a730caf9-b5e0-462d-b11b-f035f2603f3c/3ca421c7-8c4c-4cf8-baf8-a2615ebeec47.svg)
 #### 🤖 GitHub Stats
 <a> 
   <a href="https://github.com/ShoyebWritesCode">
